@@ -27,4 +27,3 @@ class Article(models.Model):
     
         
         
-vvV       
